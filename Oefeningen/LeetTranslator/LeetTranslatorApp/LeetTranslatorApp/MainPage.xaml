@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LeetTranslatorApp.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Entry
+                Placeholder="Vul hier je tekst in"
+                FontSize="18"
+                x:Name="EntryText"/>
+            <Button
+                Text="Translate"
+                x:Name="BtnTranslate"
+                CornerRadius="20"
+                Clicked="BtnTranslate_Clicked"
+                />
+            <Slider 
+                x:Name="mySlider"
+                Minimum="0"
+                Maximum="100"
+                ValueChanged="Sldr_ValueChanged"
+                />
+            <Label
+                x:Name="LblResult"
+                FontSize="18"
+                BackgroundColor="Black"
+                TextColor="GreenYellow"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
