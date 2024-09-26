@@ -1037,3 +1037,4 @@ C:\C_Sharp MAUI\Oefeningen\LeetTranslator\LeetTranslatorApp\LeetTranslatorApp\ob
 C:\C_Sharp MAUI\Oefeningen\LeetTranslator\LeetTranslatorApp\LeetTranslatorApp\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\C_Sharp MAUI\Oefeningen\LeetTranslator\LeetTranslatorApp\LeetTranslatorApp\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\C_Sharp MAUI\Oefeningen\LeetTranslator\LeetTranslatorApp\LeetTranslatorApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\C_Sharp MAUI\Oefeningen\LeetTranslator\LeetTranslatorApp\LeetTranslatorApp\obj\Debug\net8.0-android\LeetTranslatorApp.sourcelink.json

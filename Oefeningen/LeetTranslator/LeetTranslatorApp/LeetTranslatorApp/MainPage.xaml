@@ -21,7 +21,7 @@
                 x:Name="mySlider"
                 Minimum="0"
                 Maximum="100"
-                ValueChanged="Sldr_ValueChanged"
+                ValueChanged="BtnTranslate_Clicked"
                 />
             <Label
                 x:Name="LblResult"
